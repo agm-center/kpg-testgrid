@@ -18,6 +18,17 @@ The system includes:
 
 For detailed documentation, tutorials, and additional resources, visit the [AGM Center Documentation](https://agm.kentech.ac.kr/documentation/kpg-test-system/).
 
+## Version History
+
+| Version | Updated | Major Changes |
+|---------|------|---------------|
+| **v1.5** | 2025-12 | Generator locations corrected |
+| **v1.4** | 2025-09 | Bus numbering standardized, improved clustering |
+| **v1.3** | 2025-07 | Renewable generation profiles fixed |
+| **v1.2** | 2025-02 | Updated generator costs/capacities |
+| **v1.1** | 2024-12 | Changed slack bus (bus 1 → bus 52) |
+| **v1.0** | 2024-11 | Initial public release |
+
 ## Citation
 
 If you use the KPG 193 test system in your work, we kindly request that you cite the following paper:
