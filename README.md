@@ -2,7 +2,7 @@
 
 KPG 193 is a synthetic Korean power grid test system developed using open data sources. It aims to provide a foundational framework for modeling and analyzing the Korean power grid.
 
-![KPG 193 System Overview](kpg193.png)
+![KPG 193 System Overview](kpg193_v1_5/kpg193.png)
 
 ## System Overview
 
