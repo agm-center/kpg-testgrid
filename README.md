@@ -198,7 +198,7 @@ mpc = octave.KPG193_ver1_5()
 
 ## Data Sources
 
-For a detailed description of the data construction methodology, see the [accompanying paper](https://arxiv.org/abs/2411.14756).
+For a detailed description of the data construction methodology, see the accompanying paper [https://arxiv.org/abs/2411.14756](https://arxiv.org/abs/2411.14756).
 
 ## Version History
 
