@@ -11,6 +11,14 @@
 
 KPG 193 is a **synthetic Korean power grid test system** developed by the [AGM Center](https://agm.kentech.ac.kr/) at [KENTECH](https://www.kentech.ac.kr/) using publicly available, open data sources. It provides a foundational framework for modeling and analyzing the Korean power grid — filling a gap where no publicly available, standardized test system existed for the Korean transmission network.
 
+KPG 193 is one of three modules in the [**KPG (Korean Power Grid) Platform**](https://agm.kentech.ac.kr/documentation/introduction/):
+
+| Module | Description |
+|--------|-------------|
+| [**KPG Test System**](https://agm.kentech.ac.kr/documentation/kpg-test-system/) (this repo) | Synthetic grid data — network, generators, demand/weather/renewable profiles |
+| [**KPG Run**](https://agm.kentech.ac.kr/documentation/kpg-run/) | Desktop application for solving ED, UC, DC-OPF, and AC-OPF problems |
+| [**KPG View**](https://agm.kentech.ac.kr/documentation/kpg-view/getting-started/) | Interactive map-based visualization of grid networks and simulation results |
+
 The test system is designed to support a broad range of power system research, including:
 
 - **Decarbonization studies** — Evaluate renewable integration pathways and carbon reduction strategies.
@@ -18,7 +26,7 @@ The test system is designed to support a broad range of power system research, i
 - **Resource adequacy and reliability** — Assess generation sufficiency under diverse operating conditions.
 - **Renewable energy integration** — Analyze the impact of wind, solar, and hydro generation with full temporal resolution.
 
-KPG 193 is built from publicly available Korean energy statistics — and is released under the Open Database License (ODbL 1.0) to enable reproducible, transparent research.
+KPG 193 is built from publicly available Korean energy statistics and is released under the Open Database License (ODbL 1.0) to enable reproducible, transparent research.
 
 ## Key Features
 
