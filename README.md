@@ -17,7 +17,7 @@ KPG 193 is one of three modules in the [**KPG (Korean Power Grid) Platform**](ht
 |--------|-------------|
 | [**KPG Test System**](https://agm.kentech.ac.kr/documentation/kpg-test-system/) (this repo) | Synthetic grid data — network, generators, demand/weather/renewable profiles |
 | [**KPG Run**](https://agm.kentech.ac.kr/documentation/kpg-run/) | Desktop application for solving ED, UC, DC-OPF, and AC-OPF problems |
-| [**KPG View**](https://agm.kentech.ac.kr/documentation/kpg-view/getting-started/) | Interactive map-based visualization of grid networks and simulation results |
+| [**KPG View**](https://agm.kentech.ac.kr/documentation/kpg-view/overview/) | Interactive map-based visualization of grid networks and simulation results |
 
 The test system is designed to support a broad range of power system research, including:
 
