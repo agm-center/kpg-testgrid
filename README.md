@@ -29,9 +29,9 @@ The dataset supports research on decarbonization, optimal power flow, resource a
 | Component | Count |
 |-----------|------:|
 | Buses | 193 |
-| Conventional generators | 122 |
-| Transmission lines (AC) | 359 |
-| DC lines | 1 |
+| Conventional generators | 201 |
+| Transmission lines (AC) | 385 |
+| DC lines | 2 |
 | Voltage levels | 154 / 345 / 765 kV |
 | Renewable types | Wind, Solar, Hydro |
 | Temporal resolution | 8,760 hours (24 h × 365 days) |
